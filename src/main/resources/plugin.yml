@@ -1,0 +1,8 @@
+name: HowerMC-Lobby
+version: '${project.version}'
+main: fr.lediamantrouge.howermclobby.Main
+
+commands:
+  fly:
+  spawn:
+  menu:
