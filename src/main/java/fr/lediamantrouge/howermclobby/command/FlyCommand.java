@@ -1,6 +1,5 @@
 package fr.lediamantrouge.howermclobby.command;
 
-import fr.lediamantrouge.howermclobby.util.TranslateBoolean;
 import org.bukkit.Bukkit;
 import org.bukkit.Sound;
 import org.bukkit.command.Command;
