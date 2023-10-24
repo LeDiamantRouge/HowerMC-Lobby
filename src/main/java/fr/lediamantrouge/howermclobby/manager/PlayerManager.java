@@ -13,4 +13,28 @@ public class PlayerManager {
         String prefix = Objects.requireNonNull(user.getCachedData().getMetaData().getPrefix()).replace("&", "§");
         return prefix.replace("&", "§");
     }
+
+    public static int getDollars(Player player) {
+        return -1;
+    }
+
+    public static int getCoins(Player player) {
+        return -1;
+    }
+
+    public static int getRank(Player player) {
+        return -1;
+    }
+
+    public static int getLevel(Player player) {
+        return -1;
+    }
+
+    public static int getXp(Player player) {
+        return -1;
+    }
+
+    public static int getXpMax(Player player) {
+        return -1;
+    }
 }
